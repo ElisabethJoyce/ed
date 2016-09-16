@@ -6,9 +6,7 @@ publication-date: 1920
 source: "Masters, Edgar Lee. Domesday, Macmillan, 1920. Pp. 80-84."
 ---
 
-
-
-DR. TRACE TO THE CORONER  
+ 
 I cannot tell you, Coroner, the cause  
 Of death of Elenor Murray, not until  
 My chemical analysis is finished.  
